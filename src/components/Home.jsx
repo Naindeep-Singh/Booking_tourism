@@ -7,7 +7,7 @@ function Home() {
   const uniqueStates = [
     "Uttar Pradesh",
     "Rajasthan",
-    "Goa",
+    "LOude",
     "West Bengal",
     "Kerala",
     "Maharashtra",
