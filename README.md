@@ -1,8 +1,25 @@
-# React + Vite
+# Tourist Booking Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to our Tourist Booking Website! This website allows you to filter destinations and book venues for your next adventure.
 
-Currently, two official plugins are available:
+## Features
+- **Filter Destinations**: Browse destinations by applying location filters.
+- **Book Venues**: Book venues for your chosen destinations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A fast and minimalist web development build tool.
+
+## Deployment
+The website is deployed on Vercel and can be accessed [here](https://booking-tourism.vercel.app).
+
+## Installation
+To run this project locally:
+1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+2. Navigate to the project directory: `cd your-repository`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open your browser and go to `http://localhost:3000`
+
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
